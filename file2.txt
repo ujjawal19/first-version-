@@ -1,1 +1,2 @@
-this is second file named file2.txt
+this is updated file named file2.txt
+fresh content
